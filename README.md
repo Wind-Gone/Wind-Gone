@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Wind-Gone's github stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone)](https://github.com/anuraghazra/github-readme-stats)
-- 🌱 I’m currently learning React & Websocket
-
+- 🌱 I’m currently learning TOEFL & DeepLearning
+- 👯 I’m looking to collaborate on Embedded development
 - 📫 How to reach me: QQ:1242378947
 <!--
 **Wind-Gone/Wind-Gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
