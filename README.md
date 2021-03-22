@@ -6,7 +6,7 @@ Hi bro, I'm Wind-Gone 👋
 
 - 🌱 I’m currently learning Distributed Database Management & Cloud Computing & DeepLearning
 - 👯 I’m looking to collaborate on Embedded development
-- 📫 How to reach me: WeChat:hzr1242378947
+- 📫 How to reach me: hzr1242378947(WeChat)
 - 🍻 Junior at [ECNU](https://www.ecnu.edu.cn/), in Software Engineering
 - ✍️ Blogger https://wind-gone.gitee.io/
 - 🏃 Basketball / Badminton / Piano / Calligraphy / Chinese language and literature
