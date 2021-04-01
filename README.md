@@ -3,7 +3,6 @@
 Hi bro, I'm Wind-Gone 👋
 <br></br>
 <img src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&theme=algolia" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Gone&theme=algolia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 - 🌱 I’m currently learning Distributed Database Management & Cloud Computing & DeepLearning
 - 👯 I’m looking to collaborate on Embedded development
 - 📫 How to reach me: hzr1242378947(WeChat)
