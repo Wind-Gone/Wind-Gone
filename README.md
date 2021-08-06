@@ -3,6 +3,7 @@
 Hi bro, I'm Wind-Gone 👋
 <br></br>
 ![HuZirui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&count_private=true&theme=algolia)
+<br>
 ![HuZirui's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=algolia)  
 - 🌱 I’m an enthusiast in DB system design and AI for DB.
 - 👯 I’m looking to collaborate on Embedded development
