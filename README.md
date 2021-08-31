@@ -5,7 +5,7 @@ Hi bro, I'm Wind-Gone 👋
 ![HuZirui](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wind-Gone&theme=monokai)
 ![HuZirui](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Gone&hide=html&layout=compact&theme=algolia)
 - 🌱 I’m an enthusiast in DB system design and AI for DB.
-- 👯 I’m looking to collaborate on Embedded development
+- 👯 I’m looking forward to collaborate on Embedded development
 - 📫 How to reach me: hzr1242378947(WeChat)
 - 🍻 Junior at [ECNU](https://www.ecnu.edu.cn/), in Software Engineering and Chinese language and literature
 - 🔭 I’m currently working in the lab of ECNU Dase
