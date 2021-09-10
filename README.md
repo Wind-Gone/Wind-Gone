@@ -2,7 +2,6 @@
 
 Hi bro, I'm Wind-Gone 👋
 <br></br>
-![HuZirui](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Wind-Gone&theme=monokai)
 ![HuZirui](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Gone&hide=html&layout=compact&theme=algolia)
 - 🌱 I’m an enthusiast in DB system design and AI for DB.
 - 👯 I’m looking forward to collaborate on Embedded development
