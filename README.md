@@ -3,8 +3,7 @@
 Hi bro, I'm Wind-Gone 👋
 <br></br>
 ![HuZirui](https://github-readme-stats.vercel.app/api/top-langs/?username=Wind-Gone&hide=html&layout=compact&theme=algolia)
-- 🌱 I’m an enthusiast in DB system design and AI for DB.
-- 👯 I’m looking forward to collaborate on Embedded development
+- 🌱 I’m an enthusiast in DB system design, DB benchmark and AI for DB.
 - 📫 How to reach me: hzr1242378947(WeChat)
 - 🍻 Junior at [ECNU](https://www.ecnu.edu.cn/), in Software Engineering and Chinese language and literature
 - 🔭 I’m currently working in the lab of ECNU Dase
