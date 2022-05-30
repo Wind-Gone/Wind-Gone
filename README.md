@@ -1,10 +1,10 @@
 
 
 **Hi bro:man_with_gua_pi_mao:, I'm Wind-Gone** 👋
-- 🌱 **Introduction:** I’m an enthusiast in DB system design, DB benchmark, AI for DB and formal verification.
-- 📫 **How to reach me:** hzr1242378947(WeChat)
+- 🌱 **Introduction:** A First-year Ph.D in ECNU [DaSE](http://dase.ecnu.edu.cn/)
+- 📫 **Contact:** hzr1242378947(WeChat) / winggone127@gmail.com(Email)
 - 🎓 **Education Background:** Junior at [ECNU](https://www.ecnu.edu.cn/), major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](http://www.zhwx.ecnu.edu.cn/)
-- 🏫 **Research:** I’m a PHD-Zero in ECNU [Dase](http://dase.ecnu.edu.cn/)
+- 🏫 **Research:** An enthusiast in DB system design, DB benchmark, AI for DB and formal theory.
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🎾 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊
 - 💬 **Zhihu:** https://www.zhihu.com/people/hhhuhuh
 <br></br>
