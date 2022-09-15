@@ -1,7 +1,7 @@
 
 
 **Hi bro:man_with_gua_pi_mao:, I'm Wind-Gone** 👋
-- 🌱 **Introduction:** A First-year Ph.D in ECNU [DaSE](http://dase.ecnu.edu.cn/)
+- 🌱 **Introduction:** A First-year Ph.D in ECNU [DaSE](http://dase.ecnu.edu.cn/) [DBHammer](https://dbhammer.github.io/) Group
 - 📫 **Contact:** hzr1242378947(WeChat) / winggone127@gmail.com(Email) / 1242378947@qq.com(QQEmail)
 - 🎓 **Education Background:** Junior at [ECNU](https://www.ecnu.edu.cn/), major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](http://www.zhwx.ecnu.edu.cn/)
 - 🏫 **Research:** An enthusiast in DB system design, DB benchmark, AI for DB and formal theory.
