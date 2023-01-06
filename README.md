@@ -4,7 +4,7 @@
 - 🌱 **Introduction:** A First-year Ph.D in ECNU [DaSE](http://dase.ecnu.edu.cn/) [DBHammer](https://dbhammer.github.io/) Group
 - 📫 **Contact:** hzr1242378947(WeChat) / zrhu@stu.ecnu.edu.cn
 - 🎓 **Education Background:** Junior at [ECNU](https://www.ecnu.edu.cn/), major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](http://www.zhwx.ecnu.edu.cn/)
-- 🏫 **Research:** An enthusiast in DB system design, DB benchmark, AI4DB and formal theory
+- 🏫 **Research:** An enthusiast in DB system design, AI4DB, benchmarks and formal theory
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊
 - 💬 **Zhihu:** https://www.zhihu.com/people/hhhuhuh
 - 😄 **Tips**: Sincerely welcome to contact me 
