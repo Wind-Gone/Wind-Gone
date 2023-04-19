@@ -7,12 +7,12 @@
 - 🎓 **Education Background:** Junior at [ECNU](https://www.ecnu.edu.cn/), major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](http://www.zhwx.ecnu.edu.cn/)
 - 🏫 **Research:** An enthusiast in DB system design, AI4DB, benchmarks and formal theory
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
-- 😄 **Tips**: Sincerely welcome to contact me  ![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
+- 😄 **Tips**: Sincerely welcome to contact me  
 
 ![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=tokyonight" alt="mystreak"/>
 [![Zirui Hu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Wind-Gone&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
 <!--
 **Wind-Gone/Wind-Gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
