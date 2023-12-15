@@ -1,6 +1,6 @@
 
 
-**Hi bro:man_with_gua_pi_mao:, I'm Wind-Gone** 👋
+**Hi bro:, I'm Wind-Gone** 👋
 
 - 🌱 **Introduction:** A Second-year Ph.D in ECNU DaSE [DBHammer](https://dbhammer.github.io/) Group
 - 📫 **Contact:** hzr1242378947(WeChat) / zrhu@stu.ecnu.edu.cn
