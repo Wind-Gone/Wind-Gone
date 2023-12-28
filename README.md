@@ -6,7 +6,7 @@
 - 📫 **Contact:** hzr1242378947(WeChat) / zrhu@stu.ecnu.edu.cn
 - 🎓 **Education Background:**
   - 2022-2027 [Data Science and Big Data Technology](http://dase.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
-  - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](http://www.zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
+  - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](https://zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
 - 🏫 **Research:** An enthusiast in DB system design, AI4DB, benchmarks and formal theory
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
 - 😄 **Tips**: Sincerely welcome to contact me  
