@@ -13,8 +13,8 @@
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
 - 😄 **Tips**: You can find more information in my personal [website](https://wind-gone.github.io/)
 
-![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&width=200" alt="mystreak"/>
+![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue&card_width=100)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&card_width=250" alt="mystreak"/>
 <!--[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)-->
 
 <!--
