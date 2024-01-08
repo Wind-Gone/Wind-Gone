@@ -11,7 +11,7 @@
   - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](https://zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
 - 🏫 **Research:** An enthusiast in DB system design, AI4DB, benchmarks and formal theory
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
-- 😄 **Tips**: You can find more information in my personal [website](https://wind-gone.github.io/)
+- 😄 **Tips**: You can find more information in my personal [website](https://wind-gone.github.io/) and [zhihu](https://www.zhihu.com/people/hhhuhuh)
 
 ![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue&card_width=100)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&card_width=350" alt="mystreak"/>
