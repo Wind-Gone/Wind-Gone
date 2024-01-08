@@ -2,6 +2,8 @@
 
 **Hi bro, I'm Wind-Gone** 👋
 
+![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
+
 - 🌱 **Introduction:** A Second-year Ph.D in ECNU DaSE [DBHammer](https://dbhammer.github.io/) Group
 - 📫 **Contact:** hzr1242378947(WeChat) / zrhu@stu.ecnu.edu.cn
 - 🎓 **Education Background:**
@@ -9,12 +11,12 @@
   - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](https://zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
 - 🏫 **Research:** An enthusiast in DB system design, AI4DB, benchmarks and formal theory
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
-- 😄 **Tips**: Sincerely welcome to contact me  
+- 😄 **Tips**: You can find more information in my personal [website](https://wind-gone.github.io/)
 
-![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=tokyonight" alt="mystreak"/>
-[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)
-![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
+![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&width=200" alt="mystreak"/>
+<!--[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)-->
+
 <!--
 **Wind-Gone/Wind-Gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
