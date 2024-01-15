@@ -14,7 +14,7 @@
   - Email：zrhu@stu.ecnu.edu.cn
   - WeChat ID：
     ```bash
-    echo 'aHpyMTI0MjM3ODk0Nw==' | base64 -d
+    echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
     ```
 
 ![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue&card_width=100)
