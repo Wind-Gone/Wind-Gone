@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
 
-- 🌱 **Introduction:** A Second-year Ph.D in ECNU DaSE [DBHammer](https://dbhammer.github.io/) Group
+- 🌱 **Introduction:** A Third-year Ph.D in ECNU DaSE [DBHammer](https://dbhammer.github.io/) Group
 - 🎓 **Education Background:**
   - 2022-2027 [Data Science and Big Data Technology](http://dase.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
   - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](https://zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
