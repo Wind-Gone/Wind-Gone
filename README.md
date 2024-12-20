@@ -14,7 +14,10 @@
     ```bash
     echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
     ```
-![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue&card_width=100)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&card_width=350" alt="mystreak"/>
+<div>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=vue">
+  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wind-Gone&layout=compact&theme=vue" />
+</div>
+
 <!--[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)-->
 ![Snake animation](https://raw.githubusercontent.com/Wind-Gone/Wind-Gone/output/github-contribution-grid-snake.svg)
