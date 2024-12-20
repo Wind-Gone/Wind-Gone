@@ -1,6 +1,4 @@
-
-
-**Hi bro, I'm Wind-Gone** 👋
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  **Hi bro, I'm Wind-Gone** 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-Wind-Gone&style=flat-square)
 
@@ -16,22 +14,7 @@
     ```bash
     echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
     ```
-
 ![Zirui Hu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=shadow_blue&card_width=100)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=shadow_blue&card_width=350" alt="mystreak"/>
 <!--[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)-->
-
-<!--
-**Wind-Gone/Wind-Gone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://raw.githubusercontent.com/Wind-Gone/Wind-Gone/output/github-contribution-grid-snake.svg)
