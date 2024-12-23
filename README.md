@@ -16,7 +16,8 @@
     ```
 <div>
   <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=vue">
-  <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wind-Gone&layout=compact&theme=vue" />
+  <img width="475px" src="http://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=vue">
+<!--   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wind-Gone&layout=compact&theme=vue" /> -->
 </div>
 
 <!--[![Zirui Hu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Wind-Gone&theme=flat-square)](https://github.com/Wind-Gone/github-readme-activity-graph)-->
