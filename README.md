@@ -15,8 +15,8 @@
     echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
     ```
 <div>
-  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=vue">
-  <img width="475px" src="http://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=vue">
+  <img width="430px" src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=vue">
+  <img width="455px" src="http://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=vue">
 <!--   <img width="390px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Wind-Gone&layout=compact&theme=vue" /> -->
 </div>
 
