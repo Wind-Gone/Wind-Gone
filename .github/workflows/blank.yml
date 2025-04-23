@@ -13,6 +13,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: waka_221de0de-512c-429e-a0d8-9a6ad6015d88
-          GH_TOKEN: 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
+          GH_TOKEN: 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
           SHOW_OS: "False"
           SHOW_PROJECTS: "False"
