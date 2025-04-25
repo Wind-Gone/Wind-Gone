@@ -24,4 +24,35 @@
 ![Snake animation](https://raw.githubusercontent.com/Wind-Gone/Wind-Gone/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-464%20hrs%2037%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-54-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                542 commits         ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+🌆 Daytime                1018 commits        ██████████░░░░░░░░░░░░░░░   41.53 % 
+🌃 Evening                841 commits         █████████░░░░░░░░░░░░░░░░   34.31 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Markdown                 16 mins             █████████████████████████   100.00 % 
+
+🔥 Editors: 
+VS Code                  16 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      16 mins             █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 25/04/2025 05:37:06 UTC
 <!--END_SECTION:waka-->
