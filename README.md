@@ -9,7 +9,7 @@
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
 - 😄 **Tips**: You can find more information in my [zhihu](https://www.zhihu.com/people/hhhuhuh)
 - 📫 **Contact:**
-  - Email：zrhu@stu.ecnu.edu.cn
+  - Email：zrhu(at)stu.ecnu.edu.cn
   - WeChat ID：
     ```bash
     echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
