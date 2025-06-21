@@ -51,10 +51,10 @@ Sunday                   236 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TeX** 
@@ -70,5 +70,5 @@ Typst                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2025 16:31:18 UTC
+ Last Updated on 21/06/2025 16:29:01 UTC
 <!--END_SECTION:waka-->
