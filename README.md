@@ -7,7 +7,6 @@
   - 2022-2027 [Data Science and Big Data Technology](http://dase.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
   - 2018-2022 major in [Software Engineering](http://www.sei.ecnu.edu.cn/) and minor in [Chinese language and literature](https://zhwx.ecnu.edu.cn/) ([ECNU](https://www.ecnu.edu.cn/))
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
-- 😄 **Tips**: You can find more information in my [zhihu](https://www.zhihu.com/people/hhhuhuh)
 - 📫 **Contact:**
   - Email：zrhu(at)stu.ecnu.edu.cn
   - WeChat ID：
