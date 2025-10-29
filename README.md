@@ -9,10 +9,7 @@
 - 🐣 **Hobbies:** Basketball🏀 / Badminton🏸 / Piano🎹 / Calligraphy✒️ / Guitar🎸 / Swimming🏊 / Singing🎤
 - 📫 **Contact:**
   - Email：zrhu(at)stu.ecnu.edu.cn
-  - WeChat ID：
-    ```bash
-    echo 'aHpyMTI0MjM3ODk0Nwo=' | base64 -d
-    ```
+ 
 <div>
   <img width="390px" src="https://github-readme-stats.vercel.app/api?username=Wind-Gone&show_icons=true&theme=vue">
   <img width="415px" src="http://github-readme-streak-stats.herokuapp.com/?user=Wind-Gone&theme=vue">
